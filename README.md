@@ -11,7 +11,7 @@
 
 <summary> ${\textsf{\color{#CDCAD7} all }}$ ${\textsf{\color{#D5C6CB} of }}$ ${\textsf{\color{#DCCECA} my }}$ ${\textsf{\color{#EFE8E0} links }}$</summary>
 
-<a href="https://shinjupuppy.atabook.org/">ata (i need to recolor ts)</a>
+<a href="https://puppytreat.atabook.org/">ata (i need to recolor ts)</a>
 
 &emsp;
 
