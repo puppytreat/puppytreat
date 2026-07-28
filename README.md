@@ -3,6 +3,10 @@
 
 &emsp;
 
+${\textsf{\color{#CDCAD7} ꫀໃໃ เꪮȶ }}$ ${\textsf{\color{#D5C6CB} ᥲᥒɗ ꯱ໃᥲ꯱𐨓ꫀ𝗋 '꯱ }}$ ${\textsf{\color{#DCCECA} ᥒⴎ꧑ⴆꫀ𝗋 𝟷 }}$ ${\textsf{\color{#EFE8E0} ყⴎ꧑ꫀ :-3 }}$
+
+&emsp;
+
 <img src="https://github.com/skittishpuppy/skittishpuppy/blob/687e3b2160092174f9653717649f18a4874a36cd/Untitled358_20260727094021.png" alt="Description" width="1000">
 
 &emsp;
