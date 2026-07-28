@@ -7,7 +7,7 @@ ${\textsf{\color{#CDCAD7} ꫀໃໃ เꪮȶ }}$ ${\textsf{\color{#D5C6CB} ᥲ�
 
 &emsp;
 
-<img src="https://github.com/skittishpuppy/skittishpuppy/blob/687e3b2160092174f9653717649f18a4874a36cd/Untitled358_20260727094021.png" alt="Description" width="1000">
+<img src="https://github.com/puppytreat/puppytreat/blob/45b259bb50b30953bc4c2281a3d5d84a5b627535/Untitled358_20260728203430.png" alt="Description" width="1000">
 
 &emsp;
 
