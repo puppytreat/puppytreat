@@ -3,7 +3,7 @@
 
 &emsp;
 
-${\textsf{\color{#CDCAD7} ꫀໃໃ เꪮȶ }}$ ${\textsf{\color{#D5C6CB} ᥲᥒɗ ꯱ໃᥲ꯱𐨓ꫀ𝗋 '꯱ }}$ ${\textsf{\color{#DCCECA} ᥒⴎ꧑ⴆꫀ𝗋 𝟷 }}$ ${\textsf{\color{#EFE8E0} ყⴎ꧑ꫀ :-3 }}$
+${\textsf{\color{#CDCAD7} ꫀໃໃ เꪮȶ }}$ ${\textsf{\color{#D5C6CB} ᥲᥒɗ ꯱ໃᥲ꯱𐨓ꫀ𝗋 '꯱ }}$ <sub> ${\textsf{\color{#DCCECA} ᥒⴎ꧑ⴆꫀ𝗋 𝟷 }}$ </sub> ${\textsf{\color{#EFE8E0} ყⴎ꧑ꫀ :-3 }}$
 
 &emsp;
 
@@ -13,7 +13,7 @@ ${\textsf{\color{#CDCAD7} ꫀໃໃ เꪮȶ }}$ ${\textsf{\color{#D5C6CB} ᥲ�
 
 <details>
 
-<summary> ${\textsf{\color{#CDCAD7} zᶻ ૮˶- ﻌ -˶ა⌒)ᦱ ᥲໃໃ }}$ ${\textsf{\color{#D5C6CB} ꪮƭ }}$ ${\textsf{\color{#DCCECA} ꧑ყ }}$ ${\textsf{\color{#EFE8E0} ໃ เᥒk꯱ }}$</summary>
+<summary> <sub>  ${\textsf{\color{#CDCAD7} zᶻ ૮˶- ﻌ -˶ა⌒)ᦱ ᥲໃໃ }}$ ${\textsf{\color{#D5C6CB} ꪮƭ }}$ ${\textsf{\color{#DCCECA} ꧑ყ }}$ ${\textsf{\color{#EFE8E0} ໃ เᥒk꯱ }}$ </sub> </summary>
 
 <a href="https://pvppytreat.straw.page/"><img src="https://github.com/skittishpuppy/skittishpuppy/blob/769d0509887e3ef2297a08413eec2ea6b4d50c92/Untitled359_20260727162349.png" alt="Description" width="350">
 
