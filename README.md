@@ -3,7 +3,9 @@
 <img src="https://github.com/puppytreat/puppytreat/blob/8bc766337dfeac8b58949795f14565f431443d78/Screenshot_20260731_120242.jpg" alt="Description" width="300">
 &emsp;
 
-<sub> <a href="https://github.com/fans-town">@fans-town ♡</a> </sub>
+<img src="https://github.com/puppytreat/puppytreat/blob/55ed7c587eb88d31e61bfbb7f482d18609fca9d8/Screenshot_20260731_193055.jpg" alt="Description" width="500">
+
+<sub> <a href="https://github.com/fans-town">@fans-town</a> <a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers ♡</a> </sub>
 
 &emsp;
 
