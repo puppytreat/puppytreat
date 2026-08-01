@@ -8,8 +8,6 @@
 
 <img src="https://github.com/puppytreat/puppytreat/blob/7d188ea9b43aeb597ccf9351b069bd89f32e9a19/Screenshot_20260801_183511.jpg" alt="Description" width="700">
 
-<sub> <a href="https://github.com/fans-town">@fans-town</a> <a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a> <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media ♡</sub>
-
 &emsp;
 
 <a href="https://hits.sh/github.com/skittishpuppy/"><img alt="Hits" src="https://hits.sh/github.com/skittishpuppy.svg?label=%EA%A7%91%E1%83%A7%20%F0%90%A8%93%EA%AB%80%E1%A5%B2%C9%97%CF%81%E1%A5%B2%C8%B6%EA%AF%B1%20%E0%BB%92%EA%92%B0%CB%B5-%20%CB%95%20-%CB%B5%EA%92%B1%E0%A7%A7&extraCount=3169&color=CDCAD7&labelColor=F2EAD8"/></a>
