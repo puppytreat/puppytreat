@@ -1,11 +1,14 @@
 <div align="center">
 
-<img src="https://github.com/puppytreat/puppytreat/blob/8bc766337dfeac8b58949795f14565f431443d78/Screenshot_20260731_120242.jpg" alt="Description" width="300">
+<img src="https://github.com/puppytreat/puppytreat/blob/8bc766337dfeac8b58949795f14565f431443d78/Screenshot_20260731_120242.jpg" alt="Description" width="270">
 &emsp;
 
 <img src="https://github.com/puppytreat/puppytreat/blob/55ed7c587eb88d31e61bfbb7f482d18609fca9d8/Screenshot_20260731_193055.jpg" alt="Description" width="500">
+&emsp;
 
-<sub> <a href="https://github.com/fans-town">@fans-town</a> <a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers ♡</a> </sub>
+<img src="https://github.com/puppytreat/puppytreat/blob/7d188ea9b43aeb597ccf9351b069bd89f32e9a19/Screenshot_20260801_183511.jpg" alt="Description" width="700">
+
+<sub> <a href="https://github.com/fans-town">@fans-town</a> <a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a> <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media ♡</sub>
 
 &emsp;
 
