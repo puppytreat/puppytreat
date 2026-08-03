@@ -27,4 +27,11 @@ ${\textsf{\color{#CDCAD7} ꫀໃໃ เꪮȶ }}$ ${\textsf{\color{#D5C6CB} ᥲ�
 <a href="https://puppytreat.atabook.org/"><img src="https://github.com/skittishpuppy/skittishpuppy/blob/769d0509887e3ef2297a08413eec2ea6b4d50c92/Untitled359_20260727162548.png" alt="Description" width="250">
 
 </details>
+
+&emsp;
+
+<sub> <a href="https://github.com/fans-town">@fans-town</a> <a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a> <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> <a href="https://github.com/pt-loveforfictional"></a> <a href="https://github.com/pt-nominations">@pt-nominations</a> </sub>
+
+&emsp;
+<sub> ${\textsf{\color{#CDCAD7} ȶ𐨓ᥲᥒk ყꪮⴎ }}$ ${\textsf{\color{#D5C6CB} ᥲໃໃ ꯱ꪮ }}$ ${\textsf{\color{#DCCECA} ꧑ⴎᥴ𐨓 𐨓ꫀໃໃꪮ .ᐣ .ᐣ }}$ </sub>
 </div>
