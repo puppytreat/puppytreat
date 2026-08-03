@@ -30,7 +30,7 @@ ${\textsf{\color{#CDCAD7} ꫀໃໃ เꪮȶ }}$ ${\textsf{\color{#D5C6CB} ᥲ�
 
 &emsp;
 
-<sub> <a href="https://github.com/fans-town">@fans-town</a> <a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a> <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> <a href="https://github.com/pt-loveforfictional">@pt-loveforfictional</a> <a href="https://github.com/pt-nominations">@pt-nominations</a> </sub>
+<sub> <a href="https://github.com/fans-town">@fans-town</a> <a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a> <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> <a href="https://github.com/pt-loveforfictional">@pt-loveforfictional</a> <a href="https://github.com/ponytown-nominations">@ponytown-nominations</a> </sub>
 
 &emsp;
 <sub> ${\textsf{\color{#CDCAD7} ȶ𐨓ᥲᥒk ყꪮⴎ }}$ ${\textsf{\color{#D5C6CB} ᥲໃໃ ꯱ꪮ }}$ ${\textsf{\color{#DCCECA} ꧑ⴎᥴ𐨓 𐨓ꫀໃໃꪮ .ᐣ .ᐣ }}$ </sub>
